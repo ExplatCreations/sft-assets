@@ -1,0 +1,7 @@
+These files are a part of Sniffy's Flip Trip.
+
+License file applies all files in this directory.
+
+Content created by Eric Rosenzweig.
+
+Copyright 2013, ExplatCreations
